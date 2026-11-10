@@ -44,7 +44,7 @@ I configured PC-B with the following settings:
 - Subnet Mask 255.255.255.0
 - Default gateway is not required, all end points on same subnet
 
-![PC-B Configuration](02-pc-b-ip-configuration.png)
+![PC-B Configuration](03-pc-b-ip-configuration.png)
 
 ## Technical Skills Covered
 
