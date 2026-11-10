@@ -36,6 +36,16 @@ I configured PC-A with the following settings:
 
 ![PC-A Configuration](02-pc-a-ip-configuration.png)
 
+
+### PC-B Static IPv4 Configuration
+
+I configured PC-B with the following settings:
+- IP Address: 192.168.1.11
+- Subnet Mask 255.255.255.0
+- Default gateway is not required, all end points on same subnet
+
+![PC-B Configuration](02-pc-b-ip-configuration.png)
+
 ## Technical Skills Covered
 
 - Static IPv4 addressing
