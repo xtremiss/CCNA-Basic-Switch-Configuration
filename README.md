@@ -27,6 +27,15 @@ The network consists of the following connections:
 | PC-A | NIC | 192.168.1.10 | 255.255.255.0 |
 | PC-B | NIC | 192.168.1.11 | 255.255.255.0 |
 
+### PC-A Static IPv4 Configuration
+
+I configured PC-A with the following settings:
+- IP Address: 192.168.1.10
+- Subnet Mask 255.255.255.0
+- Default gateway is not required, all end points on same subnet
+
+![PC-A Configuration](02-pc-a-ip-configuration.png)
+
 ## Technical Skills Covered
 
 - Static IPv4 addressing
