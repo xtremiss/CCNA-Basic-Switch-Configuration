@@ -10,6 +10,8 @@ The purpose of this lab is to develop practical skills in IPv4 addressing, Cisco
 
 ## Network Topology
 
+![CCNA 2.9.2 Network Topology](01-network-topology.png)
+
 The network consists of the following connections:
 
 - S1 FastEthernet0/1 connects to S2 FastEthernet0/1.
