@@ -46,6 +46,21 @@ I configured PC-B with the following settings:
 
 ![PC-B Configuration](03-pc-b-ip-configuration.png)
 
+
+## Connectivity Verification
+
+### PC-A to PC-B Ping Test
+
+After configuring both end devices, I tested network connectivity by using the ping commmamd
+Source: PC-A (192.168.1.10)
+Destination: PC-B (192.168.1.11)
+
+Result: Successful connectivity
+
+This test confirms that PC-A can communicate with PC-B across two interconnected switches.
+
+![Successful Ping Test](04-pc-a-to-pc-b-ping.png)
+
 ## Technical Skills Covered
 
 - Static IPv4 addressing
